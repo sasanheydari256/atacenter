@@ -16,7 +16,7 @@
     "native-base": "^2.13.8",
     "persian-jdate": "^1.0.5",
     "react": "16.9.0",
-    "react-native": "0.61.2",
+    "react-native": "0.62.3",
     "react-native-extended-stylesheet": "^0.12.0",
     "react-native-fetch-blob": "^0.10.8",
     "react-native-gesture-handler": "^1.5.0",
